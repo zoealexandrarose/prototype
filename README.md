@@ -1,1 +1,2 @@
-# deliveroo one-page clone
+# deliveroo clone
+static one page recreation
